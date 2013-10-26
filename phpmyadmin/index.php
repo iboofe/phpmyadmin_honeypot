@@ -2,19 +2,11 @@
 <html dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 
 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-7">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>phpMyAdmin </title>
-    <link rel="stylesheet" type="text/css" href="phpmyadmin_files/phpmyadmin.css">
-    <link rel="stylesheet" type="text/css" href="phpmyadmin_files/print.css" media="print">
-    <meta name="robots" content="noindex,nofollow">
+    <title>phpMyA
 
-</head><body class="loginform">
-    
-<div class="container">
-<a href="http://www.phpmyadmin.net/" target="_blank" class="logo"><img src="phpmyadmin_files/logo_right.png" id="imLogo" name="imLogo" alt="phpMyAdmin" border="0"></a>
-<h1>
     Welcome to <bdo dir="ltr" xml:lang="en">phpMyAdmin </bdo></h1>
 
 <form>
